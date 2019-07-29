@@ -23,7 +23,7 @@ func (MyConn *MyConn) CheckUri(uri string) error{
 }
 
 func (MyConn *MyConn) GetUriExample() string{
-	return "blackhole"
+	return "blackhole2"
 }
 
 type Conn struct {
